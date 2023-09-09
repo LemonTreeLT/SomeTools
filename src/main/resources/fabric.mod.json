@@ -19,7 +19,7 @@
       "net.lemontree.SomeTools"
     ],
     "client": [
-		"net.lemontree.SomeToolsModClient"
+      "net.lemontree.SomeToolsModClient"
     ]
   },
   "mixins": [

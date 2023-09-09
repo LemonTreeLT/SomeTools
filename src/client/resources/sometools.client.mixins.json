@@ -3,7 +3,7 @@
 	"package": "net.lemontree.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-      "SomeToolsClientMixin"
+		"SomeToolsClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
