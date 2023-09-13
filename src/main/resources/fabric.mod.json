@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "sometools",
-  "version": "0.1-SNAPSHOT",
+  "version": "0.2-SNAPSHOT",
   "name": "SomeTools",
   "description": "add some command(or feature) in your minecraft.",
   "authors": [
