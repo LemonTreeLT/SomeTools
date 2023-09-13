@@ -2,5 +2,5 @@
 ### But it's still in development.
 # 
 TODO:\
-Implement /cls command.\
+Implement /cls command. --> done\
 anymore idk......
