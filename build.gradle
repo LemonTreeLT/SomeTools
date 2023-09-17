@@ -1,3 +1,4 @@
+//file:noinspection ProblematicWhitespace
 plugins {
 	id 'fabric-loom' version '1.2-SNAPSHOT'
 	id 'maven-publish'

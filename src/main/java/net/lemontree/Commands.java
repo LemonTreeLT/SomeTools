@@ -12,7 +12,7 @@ public class Commands {
     public static void regClsCommand() {
         CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) ->
                 dispatcher.register(literal("cls")
-                        .requires(source -> source.hasPermissionLevel(1))
+                        .requires(source -> source.hasPermissionLevel(0))
                         .then(argument("time", integer())
                                 .executes(ctx -> ClearDrops.ClsDrops(getInteger(ctx, "time"), ctx.getSource())))
                         .executes(source -> ClearDrops.ClsDrops(-1, source.getSource()))
